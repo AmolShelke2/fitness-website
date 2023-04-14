@@ -11,3 +11,12 @@ Fitness website created with HTML CSS and JavaScript
 - JavaScript
 
 <hr>
+
+## Preview
+
+### Live Preview
+
+
+### Screenshot
+
+<hr>
