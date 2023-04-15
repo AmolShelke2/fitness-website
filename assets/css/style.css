@@ -415,7 +415,7 @@ body {
 .logo {
   color: var(--rich-black-fogra-29-1);
   font-family: var(--ff-catamaran);
-  font-size: 3.5rem;
+  font-size: 2rem;
   font-weight: var(--fw-900);
   display: flex;
   align-items: center;
@@ -1016,6 +1016,10 @@ body {
   /**
    * REUSED STYLE
    */
+
+  .logo {
+    font-size: 3rem;
+  }
 
   .container {
     max-width: 540px;
