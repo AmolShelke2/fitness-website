@@ -15,9 +15,10 @@ Fitness website created with HTML CSS and JavaScript
 ## Preview
 
 ### Live Preview
-
+[Fitness website](https://dbrothersgym-website.vercel.app/)
 
 ### Screenshot
+
 
 <hr>
 
