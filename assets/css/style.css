@@ -991,6 +991,10 @@ body {
   transform: translateY(-10px);
 }
 
+/* Gallery section */
+
+/* end of gallery section */
+
 .map {
   display: flex;
   flex-direction: column;
