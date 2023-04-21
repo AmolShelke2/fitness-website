@@ -990,6 +990,19 @@ body {
   opacity: 1;
   transform: translateY(-10px);
 }
+/* Image gallery */
+.image-gallery h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.image-gallery p {
+  font-size: 2rem;
+}
+
+/* end of image gallery */
 
 .map {
   display: flex;
@@ -998,8 +1011,9 @@ body {
   justify-content: center;
   align-items: center;
   padding: 1rem;
+  margin-top: 1rem;
+  background-color: #ccc;
   margin-bottom: 1rem;
-  background-color: #fff;
 }
 
 .map h2 {
@@ -1007,6 +1021,8 @@ body {
   align-items: center;
   font-size: 4rem;
   color: #000;
+  font-weight: bold;
+  margin-bottom: 1rem;
 }
 
 .map iframe {
