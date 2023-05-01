@@ -1,6 +1,6 @@
 # Fitness Website
 
-Fitness website created with HTML CSS and JavaScript for one freelancing client.
+Fitness website created with HTML CSS and JavaScript for one local freelancing client.
 
 <hr>
 
